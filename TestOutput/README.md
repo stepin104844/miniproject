@@ -1,0 +1,1 @@
+The user is prompted to enter the following values:enter the guessing number<>if the users random number is higher than the random number:it should displays too high,try again<>if the users random number is lower than the random number:it should display too low ,try again<>The user should get the output in three or four attempts.
